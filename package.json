@@ -12,7 +12,7 @@
         "@apst/biome": "~0.1.0",
         "@apst/tsconfig": "~0.1.0",
         "@biomejs/biome": "^1.9.4",
-        "@swc/core": "^1.10.0",
+        "@swc/core": "^1.10.1",
         "tsup": "^8.3.5",
         "typedoc": "~0.27.3",
         "typedoc-plugin-markdown": "^4.3.2",
